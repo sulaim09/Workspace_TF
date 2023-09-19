@@ -20,8 +20,7 @@ terraform {
     bucket     = "mackbucket.com"
     key        = "path/to/my/key"
     region     = "us-east-1"
-    access_key = "AKIARAZOXYDNASTP3X4R"
-    secret_key = "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"
+    access_key = "
   }
 }
 ############## links pan
